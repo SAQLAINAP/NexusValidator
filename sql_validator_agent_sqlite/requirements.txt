@@ -4,6 +4,4 @@ sqlparse
 sqlalchemy
 pytest
 requests
-streamlit
 rich
-pandas
